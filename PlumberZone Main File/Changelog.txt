@@ -1,0 +1,17 @@
+[Plumber Zone change log]
+
+
+
+Version: 2.0.0 Date: 08.10.2022
+
+1. Add Bootstrap Update version
+2. Some edit with HTML & CSS file
+3. Remove unnecessary css & js
+
+
+
+
+{Version: 1.1.1 Date: 27.08.2017}
+
+1. Add Search Option of all pages
+2. fixing Typgrapy issues.
